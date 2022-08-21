@@ -23,7 +23,9 @@ Users should be able to:
 - JSON file
 
 ### What I learned
-    During this challenge a learn Fetch api call and how to use backend JSON file data and show on clint side. Also learn how filter through each element.
+ - During this challenge a learn Fetch API
+ - how to use backend JSON file data and show on clint side.
+ - Also learn how filter through each element.
 
 ## Author
 - Suraj sk
