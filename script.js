@@ -97,7 +97,7 @@ fullStackBtn.addEventListener('click',filterData);
 
 //fetch data from the json file when button click
 function filterData(e){
-    fetch("/data.json")
+    fetch("data.json")
     .then((response) => response.json())
     .then((data)=>{
       //filter output box
