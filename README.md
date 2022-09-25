@@ -12,6 +12,9 @@ Users should be able to:
 
 - Live Site URL: ( https://surajsk999sa.github.io/job-porter/)
 
+### Demo
+![Capture](https://user-images.githubusercontent.com/101207592/192129220-5e3a93ee-c4aa-4440-a499-952851fc8092.PNG)
+
 ### Built with
 
 - Semantic HTML5 markup
